@@ -1,0 +1,12 @@
+dotnet new webapi -o api - creates web api proj with name api
+dotnet watch run - launches web api ini browser and opens swagger api
+Program.cs (contais var builder - which controls modules like dependecy injections etc
+                    var api.Run() - where the actual api starts running)
+///////
+API Fundamentals
+CRUD  
+Create - POST
+Read - GET
+Update - UPDATE
+Delete - DELETE
+/////////
