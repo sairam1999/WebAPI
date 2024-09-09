@@ -10,3 +10,6 @@ Read - GET
 Update - UPDATE
 Delete - DELETE
 /////////
+Models
+    /Comments.cs
+    /Stocks.cs
